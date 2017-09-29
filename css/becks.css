@@ -92,7 +92,25 @@ hr.divider {
   opacity: .9;
 }
 
+.footer {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+}
+#menu-inner {
+  text-align: center;
+}
 #menu-container {
   border-radius: 10px;
   text-align: center;
+}
+
+#menu-col {
+  margin: 0 auto;
+  max-width: 100% !important;
+
+}
+
+.menu-card {
+  margin: auto;
 }
